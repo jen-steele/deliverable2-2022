@@ -1,0 +1,15 @@
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\bin\Debug\net6.0\deliverable2-2022.exe
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\bin\Debug\net6.0\deliverable2-2022.deps.json
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\bin\Debug\net6.0\deliverable2-2022.runtimeconfig.json
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\bin\Debug\net6.0\deliverable2-2022.dll
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\bin\Debug\net6.0\deliverable2-2022.pdb
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\deliverable2-2022.csproj.AssemblyReference.cache
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\deliverable2-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\deliverable2-2022.AssemblyInfoInputs.cache
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\deliverable2-2022.AssemblyInfo.cs
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\deliverable2-2022.csproj.CoreCompileInputs.cache
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\deliverable2-2022.dll
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\refint\deliverable2-2022.dll
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\deliverable2-2022.pdb
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\deliverable2-2022.genruntimeconfig.cache
+C:\Users\jense\source\repos\deliverable2-2022\deliverable2-2022\obj\Debug\net6.0\ref\deliverable2-2022.dll
